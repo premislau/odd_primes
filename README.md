@@ -1,2 +1,2 @@
 # odd_primes
-Odd prime numbers look-up table.
+A project allowing for generation of a number of odd prime numbers with a method similar to sieve of Eratosthenes. The numbers the information about primality of a prime number is stored in a look-up table as 1 (if a number is prime) or 0 (otherwise); the look-up table stores data only about odd numbers which are greater or rqual to 3. Odd prime numbers may be useful in research of Goldbach's conjecture.
